@@ -1,6 +1,6 @@
 # Facebook Clone Demo
 
-This project is a Facebook-clone written in React.js
+This project is a Facebook-clone written in React.js!
 
 Personal emoti. info: 
 
