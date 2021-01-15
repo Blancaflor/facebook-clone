@@ -2,7 +2,7 @@
 
 This project is a Facebook-clone written in React.js!
 
-Personal emoti. info: 
+Personal info: 
 
 - First connection with React.js
 - Video copy writing to get perception of React.
